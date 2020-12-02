@@ -8,7 +8,8 @@ data_cleanning.py - input the output .csv file from data_scrap.py.The output csv
 combine_hashtags.py - input the output .csv file from data_cleanning.py. This step is to combine all the similar hashtags to a specific hashtag. The output csv file from combine_hashtags.py will be the input of the sentiment analysis.
 
 # Model
-abc
+The steps to approach expected results are separated mainly into several parts: recognizing the baseline, testing different models, and finally comparing and concluding one best method for predicting the most relevant hashtag for tweets with respect to the performance of our proposed evaluation metrics.
+
 
 
 # Sentiment Analysis
